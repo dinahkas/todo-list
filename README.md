@@ -1,2 +1,1 @@
-todo-list
-=========
+A sample todo list. ReadMe file.

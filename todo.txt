@@ -2,10 +2,11 @@
 [] make battle station fully operational
 [] lightning hands??
 [] investigate draft in the office
-[] wrinkle crea
-<<<<<<< HEAD
+[] wrinkle cream
+[] last one
 
-=======
-[x] learn and relax
->>>>>>> version3
+
+
+
+
 

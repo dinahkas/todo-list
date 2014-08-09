@@ -3,7 +3,9 @@
 [] lightning hands??
 [] investigate draft in the office
 [] wrinkle crea
-[x] learn and relax:
+<<<<<<< HEAD
 
-
+=======
+[x] learn and relax
+>>>>>>> version3
 
